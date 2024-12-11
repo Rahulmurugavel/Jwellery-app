@@ -1,0 +1,32 @@
+.posters{
+    border-radius:20px;
+    height: 400px;
+    width: 650px;
+}
+.style{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.pedantset{
+     height: 400px;
+     width: 840px;
+     border-radius: 20px;
+     margin-left:25px;
+}
+.heroine{
+    height: 820px;
+    width: 450px;
+    border-radius: 20px;
+}
+.ringsearrings{
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left:25px;
+    margin-top: 20px;
+}
+.poster{
+    border-radius: 10px;
+    height: 150px;
+    width: 400px;
+}
